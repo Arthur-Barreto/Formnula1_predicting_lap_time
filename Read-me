@@ -2,7 +2,7 @@ Projeto 2 - Ciência dos Dados - INSPER
 Grupo: Antônio Amaral Egydio Martins e Arthur Martins de Souza Barreto
 
 História Hipotética:
-No final do ano de 2012 a grande rede de supermercados Walmart entrou em contato com a empresa Antônio e Arthur consultorias afim de fazer predições das vendas semanais que a rede teria no futuro, e gostaria que o projeto desenvolvido obtivesse três diferentes modelos matematicos para poder comparar taxas de erro, variações e constancia de cada um.
+No final do ano de 2012 a grande rede de supermercados Walmart entrou em contato com a empresa Antônio e Arthur consultorias afins de fazer predições das vendas semanais que a rede teria no futuro, e gostaria que o projeto desenvolvido obtivesse três diferentes modelos matemáticos para poder comparar taxas de erro, variações e constância de cada um.
 
 A partir disso com o uso das bibliotecas:
 
@@ -13,17 +13,17 @@ A partir disso com o uso das bibliotecas:
 - sklearn
 - scipy
 
-a empresa de consultoria inicio um projeto que têm como objetivo principal predizer - com o uso de regressão linear, DecisionTreeRegressor e RandomForestRegressor - como o comportamento de variaveis secundarias, Features - Temperatura, Preço Combustivo, Inflação e Taxa de desemprego - podem influenciar diretamente no crescimento/decrescimento de uma variável principal target, Vendas Semanais.
+a empresa de consultoria início um projeto que têm como objetivo principal predizer - com o uso de regressão linear, DecisionTreeRegressor e RandomForestRegressor - como o comportamento de variaveis secundarias, Features - Temperatura, Preço Combustivo, Inflação e Taxa de desemprego - podem influenciar diretamente no crescimento/decrescimento de uma variável principal target, Vendas Semanais.
 
 Separação de trabalho:
-O trabalho foi, em grande parte, feito de forma conjunta com ambos membros presentes na facção de gráficos, analises e modelos. Dentre as partes feitas em colaboração estão:
+O trabalho foi, em grande parte, feito de forma conjunta com ambos os membros presentes na facção de gráficos, análises e modelos. Dentre as partes feitas em colaboração estão:
 
-- Analise Exploratória - Construção de gráficos, formas de visualização e analises.
-- Construção da Base de Dados - limpeza de variaveis que não foram utilizadas, separação da base de dados por semanas - que detem todas as lojas - correlação de termos.
+- Análise Exploratória - Construção de gráficos, formas de visualização e análises.
+- Construção da Base de Dados - limpeza de variáveis que não foram utilizadas, separação da base de dados por semanas - que detém todas as lojas - correlação de termos.
 - Apresentação, explicação e aprofundamento da biblioteca Scikit-Learn
 - Explicação textual de Decision Tree Regressor (Modelo 2)
 - Explicação textual de Random Forest Regressor (Modelo 3)
-- Construção do Modelo, incluindo, Dados de treinamento e teste, Regressão Linear, Decision Tree Regressor, Random Forest Regressor, explicação textual de r²,rms e Explained Variance Score.
+- Construção do Modelo, incluindo, Dados de treinamento e teste, Regressão Linear, Decision Tree Regressor, Random Forest Regressor, explicação textual de r², rms e Explained Variance Score.
 
 - Arthur Barreto: Explicação textual de Machine Learning, explicação textual de Validação cruzada, explicação textual de Explained variance score, Gráficos de Validação cruzada.
 
