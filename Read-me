@@ -1,7 +1,7 @@
 Projeto 2 - Ciência dos Dados - INSPER
 Grupo: Antônio Amaral Egydio Martins e Arthur Martins de Souza Barreto
 
-Historia Hipotetica:
+História Hipotética:
 No final do ano de 2012 a grande rede de supermercados Walmart entrou em contato com a empresa Antônio e Arthur consultorias afim de fazer predições das vendas semanais que a rede teria no futuro, e gostaria que o projeto desenvolvido obtivesse três diferentes modelos matematicos para poder comparar taxas de erro, variações e constancia de cada um.
 
 A partir disso com o uso das bibliotecas:
@@ -29,8 +29,7 @@ O trabalho foi, em grande parte, feito de forma conjunta com ambos membros prese
 
 - Antônio Martins: Funções: lista_datas, correlacao, dados_grafico_holiday_flag_data, dados_grafico_hf, variavel_baixa, explicação textual de Data Mining, gráficos de projeção 3D, gráficos de sobreposição.
 
-
-Referencias:
+Referências:
 
 https://scikit-learn.org/stable/modules/linear_model.html
 
@@ -44,7 +43,7 @@ https://ensinandomaquinasblog.wordpress.com/2017/12/15/modelos-preditivos-de-not
 
 https://scikit-learn.org/stable/modules/tree.html
 
-https://scikit-learn.org/stable/auto_examples/tree/plot_tree_regression.html#sphx-glr-auto-examples-tree-plot-tree-regression-py
+https://scikit-learn.org/stable/auto_examples/tree/plot_tree_regression.html
 
 https://pt.wikipedia.org/wiki/Walmart
 
@@ -58,7 +57,7 @@ https://didatica.tech/a-biblioteca-scikit-learn-pyhton-para-machine-learning/
 
 https://www.ibm.com/br-pt/analytics/machine-learning
 
-https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+https://scikit-learn.org/stable/modules/cross_validation.html
 
 https://levelup.gitconnected.com/random-forest-regression-209c0f354c84
 
