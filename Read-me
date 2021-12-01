@@ -24,10 +24,11 @@ O trabalho foi, em grande parte, feito de forma conjunta com ambos os membros pr
 - Explicação textual de Decision Tree Regressor (Modelo 2)
 - Explicação textual de Random Forest Regressor (Modelo 3)
 - Construção do Modelo, incluindo, Dados de treinamento e teste, Regressão Linear, Decision Tree Regressor, Random Forest Regressor, explicação textual de r², rms e Explained Variance Score.
+- Conclusão e Referências
 
 - Arthur Barreto: Explicação textual de Machine Learning, explicação textual de Validação cruzada, explicação textual de Explained variance score, Gráficos de Validação cruzada.
 
-- Antônio Martins: Funções: lista_datas, correlacao, dados_grafico_holiday_flag_data, dados_grafico_hf, variavel_baixa, explicação textual de Data Mining, gráficos de projeção 3D, gráficos de sobreposição.
+- Antônio Martins: Funções: lista_datas, correlacao, dados_grafico_holiday_flag_data, dados_grafico_hf, variavel_baixa, explicação textual de Data Mining, gráficos de projeção 3D, gráficos de sobreposição, gráficos de importância relativa.
 
 Referências:
 
