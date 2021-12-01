@@ -4,6 +4,9 @@ Grupo: Antônio Amaral Egydio Martins e Arthur Martins de Souza Barreto
 História Hipotética:
 No final do ano de 2012 a grande rede de supermercados Walmart entrou em contato com a empresa Antônio e Arthur consultorias afins de fazer predições das vendas semanais que a rede teria no futuro, e gostaria que o projeto desenvolvido obtivesse três diferentes modelos matemáticos para poder comparar taxas de erro, variações e constância de cada um.
 
+A base de dados usada no trabalho pode ser encontrada no link a baixo:
+https://www.kaggle.com/rutuspatel/walmart-dataset-retail
+
 A partir disso com o uso das bibliotecas:
 
 - os
